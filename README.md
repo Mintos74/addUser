@@ -1,5 +1,5 @@
 # addUser
-Do added User information (number, name, old, payback)
+Do added User information (number, name, old, pay)
 
-Make and write on sales.txt file.
-If you do added something, appened data your information.
+added data was write on sales.txt file.
+If you do added something, saved data your txt file.
